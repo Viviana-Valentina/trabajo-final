@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fbazph43rTUojbkasQkrWA2EVMYWui3j7fa/BM7YITIGU8XzOHA+UPXLPCzeLtNLdsDU0hAJD+DlZg5ZHC1wcA==",
+  "dgSpecHash": "+bHVMw3rroMEAg+0hkotI/r9PWibLheGUnuQDLqI6+JTwv2kTF9WOi/r97k0kAo3x6tx+uXx/oRd4HkyfBvnMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.1\\microsoft.entityframeworkcore.5.0.1.nupkg.sha512",

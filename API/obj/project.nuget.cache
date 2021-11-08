@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NvmyTnnkMoUzl/WW5VjYv9yPaD+HGbqzuBX28X5UlZ8HilsVyfSAjJZqDJq+wPd2drO1ZJ8O5xa+lEhPit+yyg==",
+  "dgSpecHash": "OX1zf7Op/p5e1ayEw6okeVlr5tZY1QypPiY2crZBVGeU9ad9ImvZg4mgzC/BcU6Sm1EprmTaf9WSjFNkIxZyHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
